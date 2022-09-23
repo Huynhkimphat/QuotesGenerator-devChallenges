@@ -31,7 +31,7 @@ Fulfill user stories below:
 
 ### Demo
 
-_Find the site in action [here](https://musing-pike-ae2f14.netlify.app/)!_
+_Find the site in action [here](https://quotes-generator-dev-challenges.vercel.app)!_
 
 ![screenshot-random-quote](src/images/randomQuote.PNG)
 
